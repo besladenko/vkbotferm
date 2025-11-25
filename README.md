@@ -1,5 +1,7 @@
 # 🕵️ Project A.Z.A. — VK Fake Hunter
 
+https://besladenko.github.io/
+
 > **Инструмент для выявления сетей фейковых аккаунтов и нечестных участников конкурсов ВКонтакте.**
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?style=for-the-badge&logo=python)
